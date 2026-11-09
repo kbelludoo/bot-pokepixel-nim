@@ -1,0 +1,9 @@
+/target/
+accounts.json
+*.exe
+*.log
+*.key
+*.pem
+.secrets.json
+nimcache/
+bot-pokepixel-linux-nim
